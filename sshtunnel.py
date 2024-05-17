@@ -36,7 +36,7 @@ else:  # pragma: no cover
     input_ = input
 
 
-__version__ = '0.4.0'
+__version__ = '0.4.1rc0'
 __author__ = 'pahaz'
 
 
